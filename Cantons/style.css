@@ -1,0 +1,5 @@
+td {display:inline-block}
+td::after {content:'|'}
+
+a {display: inline-block}
+a::after {content:'|'}
